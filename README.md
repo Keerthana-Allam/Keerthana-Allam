@@ -36,6 +36,10 @@
 
 </p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthana-Allam&show_icons=true&theme=merko)](https://github.com/Keerthana-Allam/github-readme-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Keerthana-Allam&theme=gruvbox)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-Allam&layout=compact&theme=vision-friendly-dark)](https://github.com/Keerthana-Allam/github-readme-stats)-->
 ---
 
 <!---
