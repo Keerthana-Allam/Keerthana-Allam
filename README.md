@@ -11,7 +11,7 @@
 - 📫 How to reach me: Connect with me on [LinkedIn](www.linkedin.com/in/keerthanaallam) or send me an email at kallam@buffao.edu. I'm open to exploring opportunities for data projects and collaborations!
 ### Find me at:
 <p>
-<a href="https://www.linkedin.com/in/keerthana-allam/" target=_blank>
+<a href="https://www.linkedin.com/in/keerthana-allam/" target="_blank">
     <img src="icons8-linkedin-96.png" title="LinkedIN" alt="LinkedIN" width="40" height="40"/>
 </a>&nbsp;
 </p>
